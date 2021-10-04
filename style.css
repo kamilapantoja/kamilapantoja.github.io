@@ -4,7 +4,6 @@ h1{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-<<<<<<< HEAD
 .img{
 	width: 150px;
 	height: 150px;
@@ -15,12 +14,6 @@ h1{
 	border-radius: 50%
 	
 }
-=======
-/* .img{
-    ;
-
-} */
->>>>>>> 404ddb4d664a3f9d0f628d0f1844340c8929af0a
 
 h2{
     color: rgb(133, 115, 250);
