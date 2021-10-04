@@ -5,6 +5,9 @@ h1{
 }
 
 .img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 	width: 150px;
 	height: 150px;
 	border-top: 5px solid rgb(133, 115, 250);
