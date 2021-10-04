@@ -27,23 +27,23 @@ body{
 }
 
 .paragrafo{
-    background-color: white;
+    /* background-color: white; */
     height: 300px;
 }
 
 p{
-    color: black;
+    color: white;
     font-size: 20px;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .list-style{
     color: white;
-    
     font-weight: bold;
     line-height: 30px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 a{
-    color: black;
+    color: white;
 }
+
