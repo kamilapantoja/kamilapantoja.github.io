@@ -1,17 +1,18 @@
 h1, h2{
-    color: rgb(133, 115, 250);
+    color:rgb(151, 112, 209);
     text-align: center;
 }
 
 h1{
     
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
 }
 
 .img{
     display: block;
     margin: 0 auto;
-	border: 5px solid rgb(133, 115, 250);
+    border: 5px solid rgb(151, 112, 209);
 	border-radius: 50%
 	
 }
@@ -21,13 +22,15 @@ h2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 body{
-    background-color: rgb(28,28,28);
+    background-color: #131414;
+
     
 }
 
 .paragrafo{
     /* background-color: white; */
     height: 300px;
+    
 }
 
 p{
@@ -44,5 +47,6 @@ p{
 }
 a{
     color: white;
+    text-decoration: none;
 }
 
