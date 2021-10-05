@@ -1,18 +1,20 @@
 h1, h2{
-    color:rgb(151, 112, 209);
+    /* color:rgb(151, 112, 209); */
+    color: #DA0037;
     text-align: center;
 }
 
 h1{
     
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 30px;
+    font-size: 40px;
+    
 }
 
 .img{
     display: block;
     margin: 0 auto;
-    border: 5px solid rgb(151, 112, 209);
+    border: 5px solid #DA0037;
 	border-radius: 50%
 	
 }
@@ -22,7 +24,7 @@ h2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 body{
-    background-color: #131414;
+    background-color: #0f1111;
 
     
 }
@@ -31,6 +33,23 @@ body{
     /* background-color: white; */
     height: 300px;
     
+}
+
+#bem-vindo{
+    color: white;
+    font-weight: bold;
+    padding-top: 50px;
+    padding-bottom: 0px;
+    text-align: center;
+}
+
+#profissao{
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+    /* line-height: 0px; */
+    padding-bottom: 50px;
+    text-align: center;
 }
 
 p{
